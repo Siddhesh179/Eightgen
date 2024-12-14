@@ -1,4 +1,4 @@
-# Eightgen - Build Revenue Calculator
+# Eightgen - Revenue Calculator
 Live at https://revenueupside.vercel.app/
 
 ## Overview
